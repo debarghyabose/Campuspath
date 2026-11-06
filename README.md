@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusPath 3D — Intelligent Campus Navigation System
 
 A Data Structures & Algorithms project: shortest-path navigation across a conceptual IEM College
@@ -67,3 +68,6 @@ scripts/test-algorithms.mjs correctness tests
 
 React 18, Vite 5, JavaScript, Tailwind CSS 3, Three.js, React Three Fiber, @react-three/drei, Framer Motion,
 Zustand, Lucide React, React Router 6.
+=======
+# Campuspath
+>>>>>>> 2647d8cb09a6dbeb8ed491e5019148bbdf3de572
